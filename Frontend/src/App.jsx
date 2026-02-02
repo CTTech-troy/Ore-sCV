@@ -9,7 +9,7 @@ import  Contact  from './components/Contact';
 import  SocialLinks  from './components/SocialLinks';
 export default function App() {
   return (
-    <div className="relative min-h-screen w-full overflow-hidden bg-gradient-to-br from-[#F5F3FF] to-[#ECFDF5]">
+    <div className="relative min-h-screen w-full overflow-hidden bg-linear-to-br from-[#F5F3FF] to-[#ECFDF5]">
       {/* Ambient Background Layers */}
       <FloatingShapes />
       <ParticleBackground />
