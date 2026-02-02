@@ -29,7 +29,7 @@ export default function App() {
       {/* Footer */}
       <footer className="relative z-10 py-8 text-center text-gray-500 text-sm">
         <p>
-          © {new Date().getFullYear()} Alex Chen. Crafted with React & Framer
+          © {new Date().getFullYear()} Animashaun Al-Fawaz .O. Crafted with React & Framer
           Motion.
         </p>
       </footer>
