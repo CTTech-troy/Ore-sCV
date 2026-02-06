@@ -1,6 +1,6 @@
-# Animashaun Al-Fawaz .O - Front-End Engineer Portfolio
+# Animashaun Al-Fawaz .O - Back-End Developer & Product Designer Portfolio
 
-A creative, interactive portfolio website showcasing my skills, projects, and experience as a Front-End Engineer. Built with modern web technologies, this project emphasizes motion, aesthetics, and user experience.
+A creative, interactive portfolio website showcasing my skills, projects, and experience as a Product Designer and Back-End Developer. Built with modern web technologies, this project emphasizes motion, aesthetics, and user experience.
 
 ## 🚀 Features
 

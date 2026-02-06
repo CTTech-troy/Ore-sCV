@@ -99,7 +99,7 @@ function ProjectCard({ project }) {
 
         {/* Abstract Background Art */}
         <div
-          className={`absolute inset-0 opacity-20 bg-gradient-to-br ${project.color} z-0`} />
+          className={`absolute inset-0 opacity-20 bg-linear-to-br ${project.color} z-0`} />
 
         <div className="absolute inset-0 bg-white/5 z-0" />
 

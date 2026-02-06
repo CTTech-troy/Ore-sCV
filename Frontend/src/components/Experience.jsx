@@ -47,7 +47,7 @@ export default function Experience() {
 
         <div className="relative">
           {/* Central Line (River) */}
-          <div className="absolute left-0 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-purple-200 via-mint-300 to-purple-200 transform -translate-x-1/2 hidden md:block" />
+          <div className="absolute left-0 md:left-1/2 top-0 bottom-0 w-px bg-linear-to-b from-purple-200 via-mint-300 to-purple-200 transform -translate-x-1/2 hidden md:block" />
 
           <div className="space-y-12 md:space-y-24">
             {experiences.map((exp, index) =>

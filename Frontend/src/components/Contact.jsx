@@ -85,7 +85,7 @@ export default function Contact() {
                 whileTap={{
                   scale: 0.98
                 }}
-                className="w-full bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-medium py-4 rounded-xl shadow-lg shadow-purple-500/20 flex items-center justify-center gap-2 hover:shadow-purple-500/40 transition-shadow">
+                className="w-full bg-linear-to-r from-purple-500 to-indigo-500 text-white font-medium py-4 rounded-xl shadow-lg shadow-purple-500/20 flex items-center justify-center gap-2 hover:shadow-purple-500/40 transition-shadow">
 
                 Send Message
                 <Send size={18} />
