@@ -30,16 +30,19 @@ A creative, interactive portfolio website showcasing my skills, projects, and ex
    git clone https://github.com/Mashaun18/Ore-sCV.git
    cd ore's CV/Frontend
    ```
+
 2. **Install dependencies:**
 
    ```bash
    npm install
    ```
+
 3. **Run the development server:**
 
    ```bash
    npm run dev
    ```
+
 4. **Build for production:**
 
    ```bash
